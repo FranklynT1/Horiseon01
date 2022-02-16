@@ -33,8 +33,30 @@ In orther to accomplish the challege, the following steps were done:
   - Web accesibility standards
   - How to edit Markdown files
   - Proper use of a README.mb file
-- Apply above concepts in the revision and editing of the HTML and CSS files
-  
+- Apply above concepts in the revision and editing of the HTML and CSS 
+files
+
+## Nav Bar
+
+![NavBar](/assets/images/NavBar.png)
+
+At the top of the website - provides navigation to take user down to the section of the page of the their choosing. Below the Nav Bar is the main banner image.
+
+
+## Body
+
+![blocks](/assets/images/blocks.png)
+
+Below the banner image, are blocks containing the benefits of the Horiseon service (Search Engine Optimization, Online Reputation Management, Social Media Marketing). These blocks include an image for each one.
+
+
+## Side benefits
+
+![SideBenefits](/assets/images/side-benefits.png)
+
+Lists benefits on the side of a screen on a banner below the main banner image. Includes 3 png's as icons for each section of text.
+
+
 \
 The specific findings and modifications to the HTML file
 ```
@@ -86,5 +108,8 @@ Structure and descriptive comments were added to the CSS file, and the css rules
 ## The Output
 With the research, application of concepts, and specific changes made to the files, we were able to ensure an accesible, efficient, and easy to read project.  
 
-## Aknowledgements
-This homework project considered recommendations and guide from our training team leaders: Diana and Fernanda.
+## Footer
+
+![SideBenefits](/assets/images/footer.png)
+
+Footer at bottom of page, including Horiseon Social Solution Services copyright
