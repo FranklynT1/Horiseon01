@@ -110,6 +110,6 @@ With the research, application of concepts, and specific changes made to the fil
 
 ## Footer
 
-![SideBenefits](/assets/images/footer.png)
+![footer](/assets/images/footer.png)
 
 Footer at bottom of page, including Horiseon Social Solution Services copyright
